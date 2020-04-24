@@ -8,15 +8,31 @@ General
 
 Just a place holder...
 
-Submenu 1
+Code
 ---------
 
-Just a place holder...
+.. code:: python
 
-Subsubmenu 1
+   import_mda(mda_path='path/to/folder/holding/.mda_files',
+                hdf5_save_directory='path/to/save/dir',
+                hdf5_save_filename='file')
+
+Notes
 ^^^^^^^^^^^^
 
-Just a place holder...
+.. note::
+
+   import_mda(mda_path='path/to/folder/holding/.mda_files',
+                hdf5_save_directory='path/to/save/dir',
+                hdf5_save_filename='file')
+
+
+Images
+^^^^^^^^^^^^
+
+.. figure:: images/general/anl_logo.png
+    :scale: 50 %
+    :align: center
 
 
 

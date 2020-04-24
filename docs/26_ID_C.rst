@@ -30,6 +30,10 @@ Notes
 Images
 ^^^^^^^^^^^^
 
+.. warning:: This documentation and the code are under active
+	     development. We make every effort to ensure the code is
+	     usable, but make no guarantees.
+
 .. figure:: images/general/anl_logo.png
     :scale: 50 %
     :align: center

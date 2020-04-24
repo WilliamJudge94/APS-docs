@@ -9,7 +9,7 @@ Welcome to Advanced Photon Source - Beamline Guide's documentation!
 
 .. toctree::
    :caption: Advanced Photon Source
-   :maxdepth: 5
+   :maxdepth: 6
 
    beamline_template
    4_ID_D
